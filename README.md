@@ -32,5 +32,3 @@ I'm currently studying Computer Science, with a strong interest in becoming eith
 <a href="https://github.com/CodeAdventurerr/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-<a href="http://www.github.com/CodeAdventurerr?tab=overview&from=2025-07-01&to=2025-07-01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeAdventurerr?tab=overview&from=2025-07-01&to=2025-07-01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
