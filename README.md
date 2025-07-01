@@ -26,6 +26,11 @@ I'm currently studying Computer Science, with a strong interest in becoming eith
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/CodeAdventurerr?tab=overview&from=2025-07-01&to=2025-07-01"><img src="https://github-readme-stats.vercel.app/api?username=CodeAdventurerr?tab=overview&from=2025-07-01&to=2025-07-01&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CodeAdventurerr?tab=overview&from=2025-07-01&to=2025-07-01's GitHub stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CodeAdventurerr" />
+</a>
+<a href="https://github.com/CodeAdventurerr/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <a href="http://www.github.com/CodeAdventurerr?tab=overview&from=2025-07-01&to=2025-07-01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeAdventurerr?tab=overview&from=2025-07-01&to=2025-07-01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
