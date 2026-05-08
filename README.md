@@ -56,17 +56,9 @@ Desktop application that removes image backgrounds locally using AI segmentation
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeAdventurerr&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CodeAdventurerr&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAdventurerr&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 
